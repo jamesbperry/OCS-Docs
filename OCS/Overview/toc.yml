@@ -1,6 +1,0 @@
-- name: Introduction 
-  href: introduction/toc.yml
-  topicHref: introduction/OSIsoft_Cloud_Services.md
-- name: Functionality
-  href: functionality/toc.yml
-  topicHref: functionality/data-ingress.md

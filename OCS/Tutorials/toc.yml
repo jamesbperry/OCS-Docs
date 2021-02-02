@@ -2,6 +2,3 @@
   href: create-stream-views.md
 - name: Assets and Asset Types
   href: Assets/toc.yml
-- name: PI to OCS
-  href: PI-to-OCS/toc.yml
-  topicHref: PI-to-OCS/main-landing-page.md

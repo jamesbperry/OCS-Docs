@@ -4,7 +4,7 @@
   homepage: index.md
 - name: Tutorials
   href: tutorials/toc.yml
-  topicHref: tutorials/create-stream-views.md
+  topicHref: tutorials/Quick_Start.md
 - name:  API Reference
   href: reference/toc.yml
   topicHref: reference/OSIsoft_Cloud_Services.md
