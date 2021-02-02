@@ -1,11 +1,10 @@
 - name: Concepts
   href: concepts/toc.yml
-  topicHref: index.md
-  homepage: index.md
+  topicHref: concepts/Concepts_Overview.md
 - name: Tutorials
   href: tutorials/toc.yml
   topicHref: tutorials/Quick_Start.md
-- name:  API Reference
+- name: API Reference
   href: reference/toc.yml
   topicHref: reference/OSIsoft_Cloud_Services.md
 - name: Resources
