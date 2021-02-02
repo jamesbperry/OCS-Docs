@@ -1,13 +1,7 @@
-- name: Overview
-  href: overview/toc.yml
-  topicHref: index.md
-  homepage: index.md
-- name: Get Started
-  href: quickstarts/toc.yml
-  topicHref: quickstarts/Quick_Start.md
 - name: Concepts
   href: concepts/toc.yml
-  topicHref: concepts/Concepts_Overview.md
+  topicHref: index.md
+  homepage: index.md
 - name: Tutorials
   href: tutorials/toc.yml
   topicHref: tutorials/create-stream-views.md
