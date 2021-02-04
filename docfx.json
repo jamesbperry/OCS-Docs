@@ -10,7 +10,7 @@
       ],
       "dest": "api",
       "disableGitFeatures": false,
-      "_appLogoPath": "./OCS/Reference/images/atlas_icon.png",
+      "_appLogoPath": "./OCS/reference/images/atlas_icon.png",
       "_appName": "OSIsoft Cloud Services Documentation"
     }
   ],
@@ -31,8 +31,8 @@
     "resource": [
       {
         "files": [
-            "OCS/Quickstarts/images/**",
-	    "OCS/Reference/images/**"
+            "OCS/dev/**/images/**",
+	    "OCS/reference/images/**"
         ]
       }
     ],

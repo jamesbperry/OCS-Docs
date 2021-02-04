@@ -2,7 +2,7 @@
 uid: sdsQuickStart
 ---
 
-# Sequential Data Store
+# Getting started with Sequential Data Store
 
 Sequential Data Store (SDS) is a sophisticated data store. The steps described here show a very simple interaction with SDS.
 To follow along with the steps in this section, you will first need an account, tenant and associated security credentials. 
