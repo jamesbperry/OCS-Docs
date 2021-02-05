@@ -3,7 +3,7 @@
 - name: Developer guide
   href: dev/toc.yml
   topicHref: dev/Concepts_Overview.md
-- name: API Reference
+- name: API reference
   href: reference/toc.yml
   topicHref: reference/OSIsoft_Cloud_Services.md
 - name: Resources
