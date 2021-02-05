@@ -10,9 +10,12 @@
 - name: Ingress
   href: DataIngress/toc.yml
   topicHref: DataIngress/Data_Ingress.md
-- name: Assets
+- name: Asset store
   href: Assets/toc.yml
   topicHref: Assets/Assets.md
+- name: Asset rules
+  href: asset-rules/toc.yml
+  topicHref: asset-rules/asset-rules.md
 - name: Data Views
   href: DataViews/toc.yml
   topicHref: DataViews/Data_Views_Overview.md

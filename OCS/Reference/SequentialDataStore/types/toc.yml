@@ -1,10 +1,10 @@
 - name: Type definition
   href: types-properties-table.md
-- name: Types API
+- name: Types
   href: type-api.md
-- name: Types search API
+- name: Types search 
   href: type-search-api.md
-- name: Types Access Control API
+- name: Types access control
   href: type-acl-api.md
 - name: InterpolationMode
   href: interpolation-mode.md

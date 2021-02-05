@@ -1,12 +1,12 @@
-- name: Operations Overview
+- name: Operations overview
   href: Operations_Overview.md
 - name: Logs
   href: Operations_Logs.md
-- name: Usage Data
+- name: Usage data
   href: Operations_Usage Data.md
-- name: Resource Usage Data
+- name: Resource usage data
   href: Operations_Resource Usage Data.md
-- name: Billing Cycles
+- name: Billing cycles
   href: Operations_Billing Cycles.md
 - name: Health
   href: Operations_Health.md

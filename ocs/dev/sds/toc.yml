@@ -10,8 +10,6 @@
   href: Metadata_Rules_Overview.md
 - name: Stream Views
   href: stream-views.md
-- name: Create stream views
-  href: create-stream-views.md
 - name: Search in SDS
   href: Searching.md
 - name: Read data
