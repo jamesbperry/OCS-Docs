@@ -5,10 +5,10 @@ SdsTypes must be built manually when .NET `SdsTypeBuilder` is unavailable. Below
 [JavaScript](https://github.com/osisoft/OSI-Samples-OCS/tree/master/basic_samples/SDS/JavaScript) samples. 
 For samples in other languages, go to [OCS code samples in GitHub](https://github.com/osisoft/OSI-Samples-OCS/tree/master/basic_samples/SDS).
 
-**SdsTypeCode, SdsTypeProperty and SdsType**
+### SdsTypeCode, SdsTypeProperty and SdsType
 
 
-### [Python](#tab/tabid-1)
+#### [Python](#tab/tabid-1)
 
 ```python
 class SdsTypeCode(Enum):
@@ -83,7 +83,7 @@ class SdsType(object):
     def Properties(self, properties):
         self.__properties = properties
 ```
-### [JavaScript](#tab/tabid-2)
+#### [JavaScript](#tab/tabid-2)
 
 ```javascript
 SdsTypeCodeMap: {
@@ -131,10 +131,10 @@ SdsType: function (SdsType) {
 ***
 
 
-**Enum `State` and type `Simple`**
+### Enum `State` and type `Simple`
 
 
-### [Python](#tab/tabid-a)
+#### [Python](#tab/tabid-a)
 
 ```python
 class State(Enum):
@@ -162,7 +162,7 @@ class Simple(object):
         self.__measurement = measurement
 ```
 
-### [JavaScript](#tab/tabid-b)
+#### [JavaScript](#tab/tabid-b)
 
 ```javascript
 var State =
@@ -181,9 +181,9 @@ var Simple = function () {
 
 ***
 
-**Defining and creating types**
+### Defining and creating types
 
-### [Python](#tab/tabid-c)
+#### [Python](#tab/tabid-c)
 
 ```python
 # Create the properties
@@ -236,7 +236,7 @@ simpleType.Description = "Basic sample type"
 simpleType.SdsTypeCode = SdsTypeCode.Object
 simpleType.Properties = [ time ]
 ```
-### [JavaScript](#tab/tabid-d)
+#### [JavaScript](#tab/tabid-d)
 
 ```javascript
 // Time is the primary index
@@ -304,8 +304,9 @@ class Derived(Simple):
 ```
 ***
 
-**Extending the types**
-### [Python](#tab/tabid-e)
+### Extending the types
+
+#### [Python](#tab/tabid-e)
 
 ```python
 # Observation property is a simple non-indexed, standard data type
@@ -326,7 +327,7 @@ derived.BaseType = simpleType # Set the base type to the derived type
 derived.SdsTypeCode = SdsTypeCode.Object
 derived.Properties = [ observation ]
 ```
-### [JavaScript](#tab/tabid-f)
+#### [JavaScript](#tab/tabid-f)
 
 ```javascript
 var observationProprety = new SdsObjects.SdsTypeProperty({
@@ -347,7 +348,6 @@ var derivedType = new SdsObjects.SdsType({
 });
 ```
 ***
-
 
 ## Work with SdsTypes in .NET framework
 
