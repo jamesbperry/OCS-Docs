@@ -15,10 +15,10 @@ You will be mainly working on the [OSIsoft Cloud Services portal](https://cloud.
 
 In the portal, open the navigation menu ![navigation menu](images/icon_navigation_bigger.png) and select **Data Management** > **Namespaces**.
 You can use an existing namespace or create a new one.
-
+![sub](images/sub.jpg)
 
 #### Step 2: Acquire a Client Identity and Secret
-
+![sUb](images/sUb.jpg)
 The application acts as a confidential client – an application that is capable of securely maintaining a secret.
 In Azure Active Directory, the confidential client authentication flow is accomplished using an Application Identity.
 OSIsoft Cloud Services supports this authentication with a Client Identity (Client Id) and a Client Secret.
