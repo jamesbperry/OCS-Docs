@@ -21,8 +21,8 @@
     "content": [
       {
         "files": [
-	  "OCS/**/**.md",
-	  "OCS/**/toc.yml",
+	  "hub/**/**.md",
+	  "hub/**/toc.yml",
           "toc.yml",
           "**.md"
         ]
@@ -31,8 +31,8 @@
     "resource": [
       {
         "files": [
-            "OCS/dev/**/images/**",
-	    "OCS/reference/images/**"
+            "hub/dev/**/images/**",
+	    "hub/reference/images/**"
         ]
       }
     ],
