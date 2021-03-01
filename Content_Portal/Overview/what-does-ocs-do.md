@@ -173,7 +173,7 @@ OCS provides a graphical interface for setting up stream views or you can use RE
 
 ## Data analysis 
 
-After defining types, streams and stream views as needed, you can use the analytical tools provided by OCS for sort and visualize data from these objects. 
+After defining types, streams and stream views as needed, you can use the analytical tools provided by OCS to sort and visualize data from these objects. 
 
 To following analytical tools are available in OCS: 
 
