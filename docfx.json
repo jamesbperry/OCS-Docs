@@ -57,9 +57,13 @@
     "fileMetadataFiles": [],
     "template": [
       "default",
-      "_exported_templates/default"
+      "_exported_templates/default",
+      "_exported_templates/last-updated"
     ],
-    "postProcessors": ["OcsVariableProcessor"],
+    "postProcessors": [
+      "OcsVariableProcessor",
+      "LastModifiedPostProcessor"
+    ],
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
