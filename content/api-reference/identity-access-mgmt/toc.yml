@@ -1,0 +1,22 @@
+- name: Authorization code clients
+  href: authorization-code-clients.md
+- name: Azure Active Directory tenants
+  href: azure-active-directory-tenants.md
+- name: Client credential clients
+  href: client-credential-client/toc.yml
+  topicHref: client-credential-client/client-credential-clients-roles.md
+- name: Hybrid clients
+  href: hybrid-clients/toc.yml
+  topicHref: hybrid-clients.md
+- name: Identity providers
+  href: identity-providers/toc.yml
+  topicHref: api-identity-providers.md
+- name: Implicit clients
+  href: implicit-clients.md
+- name: Invitations
+  href: invitations.md
+- name: Tenants
+  href: tenant.md
+- name: Users
+  href: users/toc.yml
+  topicHref: tenants-users.md

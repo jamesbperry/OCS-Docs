@@ -1,34 +1,30 @@
-- name: Tenant management
-  href: management/toc.yml
-  topicHref: management/management-overview.md
-- name: Identity and access Management
-  href: identity/toc.yml
-  topicHref: identity/identity-and-access-management.md
-- name: Sequential data store
-  href: sequential-data-store/toc.yml
-  topicHref: sequential-data-store/sds-lp.md
-- name: Data collection and data ingress
-  href: data-ingress/toc.yml
-  topicHref: data-ingress/data-ingress.md
-- name: Metadata rules
-  topicHref: metadata/metadata-rules-overview.md
-- name: Assets
-  href: assets/toc.yml
-  topicHref: Assets/assets.md
-- name: Asset rules
-  href: asset-rules/toc.yml
-  topicHref: asset-rules/asset-rules.md  
+- name: Asset store
+  href: asset-store/toc.yml
+  topicHref: asset-store/Assets.md
+- name: Community
+  href: community/toc.yml
+  topicHref: community/communities.md
 - name: Data views
   href: data-views/toc.yml
-  topicHref: data-views/data-views-overview.md
+  topicHref: data-views/Data_Views_Overview.md
+- name: Identity and Access Management
+  href: identity-access-mgmt/toc.yml
+  topicHref: identity-access-mgmt/Identity_Overview.md
 - name: Operations
-  href: operations/toc.yml
-  topicHref: operations/operations-overview.md
-- name: Role-based access control
-  topicHref: ../developer-guide/identity-dev/dev-guide-role-based-access-control.md
-- name: HTTP status codes
-  topicHref: http-status-codes.md
-- name: Samples
-  topicHref: samples.md
-- name: Technical support and other resources
-  topicHref: support.md
+  href: operations-api/toc.yml
+  topicHref: operations-api/Operations_Overview.md
+- name: Rules
+  href: rules/toc.yml
+  topicHref: rules/rules-overview.md
+- name: Sequential Data Store
+  href: sequential-data-store/toc.yml
+  topicHref: sequential-data-store/Data_Store_and_SDS.md
+- name: OMF
+  href: omf-ingress/toc.yml
+  topicHref: omf-ingress/Data_Ingress.md
+- name: PI to OCS
+  href: pi-to-ocs/toc.yml
+  topicHref: pi-to-ocs/pi-to-ocs-api.md
+- name: Tenant management
+  href: tenant-management/toc.yml
+  topicHref: tenant-management/Management_Overview.md

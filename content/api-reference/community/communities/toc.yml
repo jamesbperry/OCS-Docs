@@ -1,0 +1,11 @@
+- name: Invitations
+  href: community-invitations.md
+- name: Roles
+  href: communities-roles.md
+- name: Search
+  href: community-search.md
+- name: Tenant
+  href: community-tenants.md
+- name: Users
+  href: communities-users.md
+  

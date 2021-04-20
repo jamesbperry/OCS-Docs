@@ -1,0 +1,11 @@
+- name: Access rights
+  href: Access-Control-API.md
+- name: Bulk resolved asset
+  href: asset-resolved-asset.md
+- name: Data
+  href: data/toc.yml
+  topicHref: data/Asset-Centric-Data-API.md
+- name: Resolved asset
+  href: asset-centric-data-api.md
+- name: Status data
+  href: Asset-Search-API.md

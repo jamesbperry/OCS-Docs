@@ -1,0 +1,8 @@
+- name: Interpolated values
+  href: Asset-Centric-Data-API.md
+- name: Last value
+  href: Asset-Centric-Data-API.md
+- name: Sampled values
+  href: asset-status-data.md
+- name: Summaries
+  href: asset-status-data.md

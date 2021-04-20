@@ -1,0 +1,4 @@
+- name: Roles
+  href: client-credential-clients-roles.md
+- name: Secrets
+  href: client-credential-clients-secrets.md

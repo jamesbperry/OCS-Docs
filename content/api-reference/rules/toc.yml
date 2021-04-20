@@ -1,0 +1,12 @@
+- name: Asset change data
+  href: asset-change-data.md
+- name: Asset rules
+  href: asset-rules/toc.yml
+  topicHref: rules-overview.md
+- name: Metadata rules
+  href: metadata-rules/toc.yml
+  topicHref: rules-overview.md
+- name: Metadata rules preview
+  href: metadata-rule-preview.md
+- name: Metadata rules suggestion
+  href: preview-controllers-suggestion.md
