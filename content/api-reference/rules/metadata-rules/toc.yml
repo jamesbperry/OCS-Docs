@@ -1,10 +1,12 @@
 - name: Access control list
-  href: acl.md
+  href: metadata-rule-preview.md
 - name: Access rights
-  href: rule-errors.md
+  href: metadata-rule-suggestion.md
 - name: Change data
-  href: acl.md
+  href: owner.md
 - name: Owner
-  href: rule-errors.md
+  href: owner.md
 - name: Preview
-  href: acl.md
+  href: owner.md
+- name: Suggestion
+  href: owner.md
