@@ -1,0 +1,6 @@
+- name: Asset types
+  href: asset-types/toc.yml
+  topicHref: asset-types/collection-acles.md
+- name: Assets 
+  href: assets-proper/toc.yml
+  topicHref: assets-proper/Access-Control-API.md

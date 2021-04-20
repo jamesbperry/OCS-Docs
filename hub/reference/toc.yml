@@ -1,24 +1,30 @@
-- name: Tenant Management
-  href: Management/toc.yml
-  topicHref: Management/Management_Overview.md
-- name: Identity and Access Management
-  href: Identity/toc.yml
-  topicHref: Identity/Identity_Overview.md
-- name: Sequential Data Store
-  href: SequentialDataStore/toc.yml
-  topicHref: SequentialDataStore/Data_Store_and_SDS.md
-- name: Ingress
-  href: DataIngress/toc.yml
-  topicHref: DataIngress/Data_Ingress.md
 - name: Asset store
-  href: Assets/toc.yml
-  topicHref: Assets/Assets.md
-- name: Asset rules
-  href: asset-rules/toc.yml
-  topicHref: asset-rules/asset-rules.md
-- name: Data Views
-  href: DataViews/toc.yml
-  topicHref: DataViews/Data_Views_Overview.md
+  href: asset-store/toc.yml
+  topicHref: asset-store/Assets.md
+- name: Community
+  href: community/toc.yml
+  topicHref: community/communities.md
+- name: Data views
+  href: data-views/toc.yml
+  topicHref: data-views/Data_Views_Overview.md
+- name: Identity and Access Management
+  href: identity-access-mgmt/toc.yml
+  topicHref: identity-access-mgmt/Identity_Overview.md
 - name: Operations
-  href: Operations/toc.yml
-  topicHref: Operations/Operations_Overview.md
+  href: operations-api/toc.yml
+  topicHref: operations-api/Operations_Overview.md
+- name: Rules
+  href: rules/toc.yml
+  topicHref: rules/rules-overview.md
+- name: Sequential Data Store
+  href: sequential-data-store/toc.yml
+  topicHref: sequential-data-store/Data_Store_and_SDS.md
+- name: OMF
+  href: omf-ingress/toc.yml
+  topicHref: omf-ingress/Data_Ingress.md
+- name: PI to OCS
+  href: pi-to-ocs/toc.yml
+  topicHref: pi-to-ocs/pi-to-ocs-api.md
+- name: Tenant management
+  href: tenant-management/toc.yml
+  topicHref: tenant-management/Management_Overview.md
