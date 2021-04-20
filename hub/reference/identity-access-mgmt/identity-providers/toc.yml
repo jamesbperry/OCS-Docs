@@ -1,0 +1,9 @@
+- name: Claim type names
+  href: claim-type-names.md
+- name: Claims
+  href: claims.md
+- name: Consent
+  href: claims.md
+- name: Groups
+  href: groups/toc.yml
+  topicHref: identity-providers-users-user-information.md

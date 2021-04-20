@@ -1,0 +1,14 @@
+- name: Access rights
+  href: collection-access-rights.md
+- name: Data views data
+  href: data-views.md
+- name: Data views data preview
+  href: data-views-preview.md
+- name: Resolved data views
+  href: resolved-data-views/toc.yml
+  topicHref: resolved-data-views/resolved-data-views.md
+- name: Resolved Data Views Preview
+  href: data-views-preview.md
+- name: Owner
+  href: collection-acl.md
+  

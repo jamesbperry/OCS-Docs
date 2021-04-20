@@ -1,0 +1,6 @@
+- name: Access rights
+  href: asset-rules-api.md
+- name: Asset Status Data
+  href: collection-acls.md
+- name: Owner
+  href: collection-acls.md
