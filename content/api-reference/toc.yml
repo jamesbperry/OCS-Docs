@@ -7,7 +7,7 @@
 - name: Data views
   href: data-views/toc.yml
   topicHref: data-views/Data_Views_Overview.md
-- name: Identity and Access Management
+- name: Identity and access management
   href: identity-access-mgmt/toc.yml
   topicHref: identity-access-mgmt/Identity_Overview.md
 - name: Operations
