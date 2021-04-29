@@ -366,7 +366,7 @@ and [Java Script](https://github.com/osisoft/sample-ocs-waveform-nodejs) samples
 
 To build an SdsType representation of sample classes in Python and Java Script, see [Sample](#sample) below:
 
-##### [Python](#tab/tabid-1)
+#### [Python](#tab/tabid-1)
 ```python
       class State(Enum):
         Ok = 0
@@ -393,7 +393,7 @@ To build an SdsType representation of sample classes in Python and Java Script, 
           self.__measurement = measurement
 ```
 
-##### [JavaScript](#tab/tabid-2)
+#### [JavaScript](#tab/tabid-2)
 ```javascript
 
       var State =
@@ -411,10 +411,10 @@ To build an SdsType representation of sample classes in Python and Java Script, 
 ```
 ***
 
-##### **Sample**
+#### **Sample**
 The following code is used to build an SdsType representation of the sample class above:
 
-##### [Python](#tab/tabid-3)
+#### [Python](#tab/tabid-3)
 
 ```python
       # Create the properties
@@ -467,7 +467,7 @@ The following code is used to build an SdsType representation of the sample clas
       simple.Properties = [ time, state, measurement ]
 ```
 
-##### [JavaScript](#tab/tabid-4)
+#### [JavaScript](#tab/tabid-4)
 
 ```javascript
 
@@ -528,7 +528,7 @@ The following code is used to build an SdsType representation of the sample clas
 
 The `Time` property is identified as the primary index by defining its SdsTypeProperty as follows:
 
-##### [Python](#tab/tabid-5)
+#### [Python](#tab/tabid-5)
 
 ```python
       # Time is the primary index
@@ -542,7 +542,7 @@ The `Time` property is identified as the primary index by defining its SdsTypePr
       time.SdsType.SdsTypeCode = SdsTypeCode.DateTime
 ```
 
-##### [JavaScript](#tab/tabid-6)
+#### [JavaScript](#tab/tabid-6)
 
 ```javascript
       // Time is the primary index
